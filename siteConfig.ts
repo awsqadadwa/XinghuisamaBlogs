@@ -5,9 +5,9 @@ export const siteConfig = {
   title: "代价位十辆大铲车 の 宝藏之地",
   faviconUrl: "https://s41.ax1x.com/2026/07/31/pmh5qOK.png",
   authorName: "代价位十辆大铲车",
-  bio: "在代码、学术与分子动力学模拟间穿梭的普通人。近期正埋头于 GROMACS 模拟研究与神经网络计算。",
+  bio: "一个神秘的大二计算机系学生",
 
-  navTitle: "XingHuiSama",
+  navTitle: "代价位十辆大铲车",
 
   // 👇 【新增】导航栏中间的那个后缀/分隔符（默认是 の）
   navSuffix: "の",

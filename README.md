@@ -1,3 +1,4 @@
+本博客基于 [XinghuisamaBlogs](https://github.com/heiehiehi/XinghuisamaBlogs) 项目修改，感谢原作者的分享！
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
