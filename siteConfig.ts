@@ -3,7 +3,7 @@
 export const siteConfig = {
   // 1. 网站标题与博主信息
   title: "代价位十辆大铲车 の 宝藏之地",
-  faviconUrl: "/avatar.jpg",
+  faviconUrl: "https://s41.ax1x.com/2026/07/31/pmh5qOK.png",
   authorName: "代价位十辆大铲车",
   bio: "在代码、学术与分子动力学模拟间穿梭的普通人。近期正埋头于 GROMACS 模拟研究与神经网络计算。",
 
@@ -15,7 +15,7 @@ export const siteConfig = {
   navAfter: "宝藏之地",
 
   // 2. 头像设置 (支持网络链接，或将图片放入 public 文件夹后使用 "/me.jpg")
-  avatarUrl: "/avatar.jpg",
+  avatarUrl: "https://s41.ax1x.com/2026/07/31/pmh5qOK.png",
 
   // 3. 网站背景设置 (二选一)
   // 如果想用纯图片背景，请在下面 bgImage 写路径，并将 useGradient 设为 false
