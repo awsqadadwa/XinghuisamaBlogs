@@ -3,7 +3,7 @@
 export const siteConfig = {
   // 1. 网站标题与博主信息
   title: "代价位十辆大铲车 の 宝藏之地",
-  faviconUrl: "/avatar.jpg",
+  faviconUrl: "/avatar.png",
   authorName: "代价位十辆大铲车",
   bio: "在代码、学术与分子动力学模拟间穿梭的普通人。近期正埋头于 GROMACS 模拟研究与神经网络计算。",
 
