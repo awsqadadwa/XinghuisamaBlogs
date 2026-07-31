@@ -35,8 +35,9 @@ export const siteConfig = {
     gitee: "",
     google: "",
     email: "",
-    qq: "1124533793",
-    wechat: "XingHuisama",
+    qq: "1367335266",
+    wechat: "",
+    bilibili:"https://space.bilibili.com/610243925?spm_id_from=333.1007.0.0"
   },
   counts: {
     photos: 128, // 照片墙数量可以手动写死或动态计算
